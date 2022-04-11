@@ -1,6 +1,6 @@
 - 👋 Salut moi c'est Baptiste
 
-- 👀 Je suis un jeune développer web
+- 👀 Je suis un jeune développer full-stack
 
 - 🌱 J'étudie actuellement chez Webtech Institute Lyon
 

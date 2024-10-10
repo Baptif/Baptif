@@ -1,8 +1,8 @@
 - 👋 Salut moi c'est Baptiste
 
-- 👀 Je suis un jeune développer full-stack
+- 👀 Je suis un jeune développer full-stack avec 3 ans d'expérience en JS & PHP
 
-- 🌱 J'étudie actuellement chez Webtech Institute Lyon
+- 🌱 Je viens de finir mon Master chez Webtech Institute Lyon
 
 - 💞️ Voici mes projets !
 
